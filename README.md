@@ -6,6 +6,11 @@
     ><img src="https://badgen.net/crates/v/book-summary" alt="crates.io"
   /></a>
 
+
+
+
+
+
 > Automatically creates a SUMMARY.md file for your book (`mdbook/gitbook`)
 
 Similar to the `npm` version of the auto-summary tool [gh/imfly/gitbook-summary](https://github.com/imfly/gitbook-summary), here is a `rust` version.
